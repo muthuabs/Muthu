@@ -1,0 +1,21 @@
+
+.search-flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: yellow;
+    width: 60%;
+    padding: 0;
+    margin: 0;
+  }
+  .search-flex-item {
+    width: 100px;
+    height: 100px;
+    background: tomato;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
